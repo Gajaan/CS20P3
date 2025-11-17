@@ -19,12 +19,11 @@ public class PrimeNumbers {
         System.out.println("choose a number");      // Asks the user to enter a number
         int num = input.nextInt();                  // Stores the user’s number in 'num'
         
-        if (num % 2 == 0) {                         // Checks if the number is a Composite number
-
-            System.out.println("The number is composite."); 
+        if (num % 2 == 0 && num != 2) {       // Checks if the number is even AND not 2 → composite
+            System.out.println("The number is composite.");
         }
-        
-        if (num % 2 != 0) {                         // Checks if the number is a prime number
+
+        if (num % 2 != 0 || num == 2) {       // Checks if the number is odd OR equal to 2 → prime
             System.out.println("The number is prime.");
         }
     }
