@@ -13,7 +13,7 @@ package mastery;
 
 import java.util.Scanner; // Imports the Scanner class for user input
 
-public class metricConverstion { // Defines the class named metricConverstion
+public class metricConversion { // Defines the class named metricConversion
 
     public static void inchestocentimeters() { // Method to convert inches to centimeters
         double inches, centimeters; // Variables to store inches and centimeters
