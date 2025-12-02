@@ -48,3 +48,108 @@ public class DigitextractorTest { // begins the tester class
         }
     }
 }
+/*
+ 
+ If the user inputs a three digit number and wants a whole number
+ Enter a three-digit number:
+672
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+w
+Whole number: 672
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+q
+
+If the user inputs a three digit number and wants the number in the hundreds place
+
+
+Enter a three-digit number:
+672
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+h
+Hundreds place: 6
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+q
+
+If the user inputs a three digit number and wants the number in the tens place
+
+Enter a three-digit number:
+672
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+t
+Tens place: 7
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+q
+
+
+If the user inputs a three digit number and wants the number in the ones place
+
+Enter a three-digit number:
+672
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+o
+Ones place: 2
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+
+
+If the user wants to end the program without choosing what place value they want  
+
+Enter a three-digit number:
+672
+
+Enter a letter:
+(w) = whole number
+(h) = hundreds place
+(t) = tens place
+(o) = ones place
+(q) = quit
+q
+
+ */
