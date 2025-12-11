@@ -20,7 +20,7 @@ public class RandomStats {
             counts[num]++;                         // Adds 1 to the counter for that number
         }
         
-        System.out.println("num:   outcomes:   ");
+        System.out.println("num:   outcomes:   "); // labels the numbers and how many times it has been selected 
 
         for (int i = 0; i < 10; i++) {             // Goes through each number 0–9
             System.out.println(i + "  :     " + counts[i]); // Prints the number and how many times it occurred
