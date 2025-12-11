@@ -1,8 +1,8 @@
 /*
 Program: RandomStats.java          
-Last Date of this Revision: November 11 2025
+Last Date of this Revision: December 11 2025
 
-Purpose: create a random 
+Purpose: create a randomStats application that generates 500 random numbers between 0 and 9 and then displays the number of occurrences of each number.
 Author: Gajaan Ram
 School: CHHS
 Course: Computer Science 20
