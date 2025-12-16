@@ -2,7 +2,7 @@
 Program: Evensandodds.java          
 Last Date of this Revision: December 16 2025
 
-Purpose: create a randomStats application that generates 500 random numbers between 0 and 9 and then displays the number of occurrences of each number.
+Purpose: Create an EvensAndOdds application that generates 25 random integers between 0 and 99 and then displays all the even on one line and all the odds on the next line.
 Author: Gajaan Ram
 School: CHHS
 Course: Computer Science 20
